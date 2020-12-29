@@ -15,13 +15,14 @@ We will be carrying Cradlepoint equipment in the near short-term and have resear
 
 ## Status Change Notification/Integration
 
-Webhooks/Push notification abilities have not been provided by the NCM API.
+Webhooks/Push notification abilities have not been provided by the Cradlepoint NCM API.
 
 **Alternatives:**
 
 - [Email Alerts](https://www.cradlepointecm.com/ecm.html#logs/alert_log) can be configured through the ECM UI with optional method to parse email using [Sendgrid](https://sendgrid.com/docs/API_Reference/Parse_Webhook/inbound_email.html)
 
   - [Docs](https://customer.cradlepoint.com/s/article/Alerting-and-Reporting-with-NCM)
+  - [Cradlepoint Enterprise Cloud Manager (EMC) UI](https://www.cradlepointecm.com/ecm.html#devices/routers)(1password under "Cradlepointecm". )
 
 - Monitoring by polling the routers endpoint for all router state (online/offline/initialized)
   changes on your account.
