@@ -4,7 +4,7 @@ We will be carrying Cradlepoint equipment in the near short-term and have resear
 
 ## Cradlepoint Docs
 
-Cradlepoint NetCloud Manager (NCM) is an SaaS-type server that enables the remote management of network devices, including routers and access points. This specification describes a RESTful API that can be used by web applications to access the service.
+> Cradlepoint NetCloud Manager (NCM) is an SaaS-type server that enables the remote management of network devices, including routers and access points. This specification describes a RESTful API that can be used by web applications to access the service.
 
 - [Documentation](https://developer.cradlepoint.com/documentation)
 
@@ -23,7 +23,8 @@ Webhooks/Push notification abilities have not been provided by the NCM API.
 
   - [Docs](https://customer.cradlepoint.com/s/article/Alerting-and-Reporting-with-NCM)
 
-- Monitoring using polling
+- Monitoring by polling the routers endpoint for all router state (online/offline/initialized)
+  changes on your account.
 
   - [API sample](https://github.com/cradlepoint/api-samples/blob/master/monitoring/samples/router_online_offline.py)
 
