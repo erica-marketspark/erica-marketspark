@@ -19,10 +19,10 @@ Webhooks/Push notification abilities have not been provided by the Cradlepoint N
 
 **Alternatives:**
 
-- [Email Alerts](https://www.cradlepointecm.com/ecm.html#logs/alert_log) can be configured through the ECM UI with optional method to parse email using [Sendgrid](https://sendgrid.com/docs/API_Reference/Parse_Webhook/inbound_email.html)
+- [Email Alerts](https://www.cradlepointecm.com/ecm.html#logs/alert_log) can be configured through the Cradlepoint Enterprise Cloud Manager (ECM) UI with optional method to parse email using [Sendgrid](https://sendgrid.com/docs/API_Reference/Parse_Webhook/inbound_email.html)
 
   - [Docs](https://customer.cradlepoint.com/s/article/Alerting-and-Reporting-with-NCM)
-  - [Cradlepoint Enterprise Cloud Manager (ECM) UI](https://www.cradlepointecm.com/ecm.html#devices/routers): Login using “Cradlepointecm” password in Dev Team 1Password
+  - [Cradlepoint ECM UI](https://www.cradlepointecm.com/ecm.html#devices/routers): Login using “Cradlepointecm” password in Dev Team 1Password
 
 - Monitoring by polling the routers endpoint for all router state (online/offline/initialized)
   changes on your account.
