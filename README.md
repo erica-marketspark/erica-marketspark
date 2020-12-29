@@ -28,8 +28,8 @@ Cradlepoint NetCloud Manager (NCM) is an SaaS-type server that enables the remot
 
 ## Netcloud Manager (NCM) API 2.0 Overview
 
-- [Getting Started] (https://developer.cradlepoint.com/)
-- [Instructions] (https://customer.cradlepoint.com/s/article/NCM-APIv2-Overview): ECM key values in Dev Team 1Password: “READ ONLY - NetCloud API - ECM Keys”
+- [Getting Started](https://developer.cradlepoint.com/)
+- [Instructions](https://customer.cradlepoint.com/s/article/NCM-APIv2-Overview): ECM key values in Dev Team 1Password: “READ ONLY - NetCloud API - ECM Keys”
 
 ## Status Change Notification/Integration
 
