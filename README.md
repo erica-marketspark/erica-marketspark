@@ -31,5 +31,5 @@ Webhooks/Push notification abilities have not been provided by the NCM API.
 
   > Cradlepoint’s NetCloud OS (NCOS) SDK provides the ability to customize the functionality of Cradlepoint devices with applications written in Python. Python applications written with the SDK are securely downloaded to the device and enabled using NetCloud Manager (NCM). Cradlepoint’s SDK allows for extending and enhancing the functionality of Cradlepoint devices, FOG computing, and managing IoT devices.
 
-      * [Docs](https://customer.cradlepoint.com/s/article/NCOS-SDK-v3)
-      * [Example Code](https://github.com/cradlepoint/sdk-samples/blob/master/app_template_csclient/csclient.py)
+  - [Docs](https://customer.cradlepoint.com/s/article/NCOS-SDK-v3)
+  - [Example Code](https://github.com/cradlepoint/sdk-samples/blob/master/app_template_csclient/csclient.py)
